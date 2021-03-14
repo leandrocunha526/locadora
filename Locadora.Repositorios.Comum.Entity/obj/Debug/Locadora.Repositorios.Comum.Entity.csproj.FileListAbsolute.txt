@@ -1,0 +1,14 @@
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.dll.config
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.pdb
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Filmes.Repositorios.Comum.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Filmes.Repositorios.Comum.pdb
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csprojAssemblyReference.cache
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csproj.CoreCompileInputs.cache
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csproj.CopyComplete
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.pdb
